@@ -10,6 +10,8 @@ Running Airflow >> docker compose up -d (Recommended to Run in Detach-Mode)
 
 Shutting Down & Cleaning up >> docker compose down --volumes --rmi all
 
+P.S. [Sample DAG's](https://github.com/Manpreet-Singh-MS/Airflow-DAGs)
+
 
 
 
