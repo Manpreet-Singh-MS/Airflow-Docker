@@ -1,6 +1,6 @@
 # Airflow-Docker-compose.yml
 
-Fetching docker-compose.yaml >>  <code>curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.7.0/docker-compose.yaml'</code>
+Fetching docker-compose.yaml >>  <code>curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.7.3/docker-compose.yaml'</code>
 
 Initializing Environment >> <code>mkdir -p ./dags ./logs ./plugins ./config</code> >> <code>echo -e "AIRFLOW_UID=$(id -u)" > .env</code> >> <code>AIRFLOW_UID=50000</code>
 
